@@ -18,3 +18,5 @@ Derived from the Unity Robotics Hub Pick-and-Place tutorial
  
 # Robot control
  - Got moveit control to work with khi rs007n robot but not correctly (using internal niryo_one geometry)
+
+# New Repo without submodiles
